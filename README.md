@@ -47,3 +47,7 @@ The app should allow users to:
 # Books:
 * Pro ASP.NET MVC 4 4th ed. Edition Adam Freeman, Steven Sanderson
 * Professional ASP.NET MVC 4 Jon Galloway, Phil Haack, Brad Wilson, K. Scott Allen
+
+
+# Starting point:
+https://github.com/AlexSikilinda/Hospital
